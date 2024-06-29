@@ -8,6 +8,20 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 
 For this challenge I organized and analyzed a sample database of Crowdfunding initiative data to uncover certain trends. Through utilizing multiple excel capabilities from organizational and statistical functions, to manipulating pivot tables for visualizations - this project honed and sharpened my Excel skills and knowledge. Please see an overview of functions and skills learned and utilized below: 
 
+### Study Insights and Applications 
+
+This analysis provides valuable insights for stakeholders, helping them make informed decisions about their interactions with crowdfunding campaigns. 
+
+Key takeaways include:
+
+Understanding Trends: Identify which categories and subcategories are more likely to succeed.
+Optimal Timing: Determine the best times to launch a campaign based on historical success rates.
+Goal Setting: Analyze successful and failed projects to set realistic funding goals.
+Donor Behavior: Understand average donation amounts and the number of backers to expect.
+Risk Assessment: Evaluate the likelihood of project success, failure, or cancellation based on different variables.
+
+By leveraging these insights, potential campaigners can enhance their strategies, increase their chances of success, and avoid common pitfalls.
+
 ### Skills and Functions Overview: 
 
 **1. Conditional Formatting**
